@@ -21,8 +21,6 @@ pisb-ml-sig/
 │
 └── README.md            ← This documentation file
 
-
----
 ```
 ## 🎯 SIG Objectives
 - **Day 1:** Foundations of Machine Learning (linear regression, loss functions, gradient descent).  
