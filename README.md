@@ -8,16 +8,16 @@ Welcome to the PISB ML SIG repository! This repo contains all of the slides, cod
 pisb-ml-sig/
 │
 ├── DAY1/                ← Slides + code for Day 1 (ML Basics)
-│   ├── slides/          ← PowerPoint & PDF slides
-│   └── code/            ← Jupyter notebooks & Python scripts
+│   ├── slides          ← PowerPoint & PDF slides
+│   └── code            ← Jupyter notebooks & Python scripts
 │
 ├── DAY2/                ← Slides + code for Day 2 (Neural Networks)
-│   ├── slides/
-│   └── code/
+│   ├── slides
+│   └── code
 │
 ├── DAY3/                ← Slides + code for Day 3 (Transformers & CV)
-│   ├── slides/
-│   └── code/
+│   ├── slides
+│   └── code
 │
 └── README.md            ← This documentation file
 
@@ -56,15 +56,14 @@ Below are curated courses and channels to deepen your understanding:
 
 2. **Navigate to the day you want:**  
    ```bash
-   cd DAY3/slides   # or DAY1, DAY2
+   cd DAY3/   # or DAY1, DAY2
 2.  **Navigate to the day you want:**
     ```bash
-    cd DAY3/slides   # or DAY1, DAY2
+    cd DAY3/   # or DAY1, DAY2
     ```
 3.  **Open slides or code:**
-    * PowerPoint/PDF in the `slides/` folder.
-    * Jupyter notebooks in the `code/` folder.
-
+    * PowerPoint/PDF in the particular 'DAY' folder.
+    * Code present in the particular 'DAY' folder
 4.  **Run the notebooks:**
     ```bash
     pip install -r requirements.txt  # if provided
