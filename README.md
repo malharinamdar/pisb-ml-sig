@@ -39,10 +39,10 @@ Below are curated courses and channels to deepen your understanding:
 | **Coursera**                             | Andrew Ng Machine Learning Specialization    | https://www.coursera.org/specializations/machine-learning                                  |
 |                                          | Deep Learning Specialization                 | https://www.coursera.org/specializations/deep-learning                                    |
 |                                          | Natural Language Processing Specialization   | https://www.coursera.org/specializations/natural-language-processing                      |
-|                                          | Generative Adversarial Networks (GANs)       | https://www.coursera.org/learn/build-basic-generative-adversarial-networks                |
+|                                          | Generative Adversarial Networks (GANs)       | https://www.coursera.org/specializations/generative-adversarial-networks-gans                |
 | **YouTube**                              | Welch Labs                                   | https://www.youtube.com/c/WelchLabs                                                       |
-|                                          | 3Blue1Brown Deep Learning Series             | https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6                  |
-|                                          | Patrick Lobanov (PyTorch Tutorials)          | https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz                  |
+|                                          | 3Blue1Brown Deep Learning Series             | https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi                  |
+|                                          | Patrick Lobanov (PyTorch Tutorials)          | https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4                  |
 
 > _Feel free to explore these resources in parallel with our SIG sessions!_
 
