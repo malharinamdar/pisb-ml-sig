@@ -44,7 +44,9 @@ Below are curated courses and channels to deepen your understanding:
 |                                          | 3Blue1Brown Deep Learning Series             | https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi                  |
 |                                          | Patrick Lobanov (PyTorch Tutorials)          | https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4                  |
 
-> _Feel free to explore these resources in parallel with our SIG sessions!_ Coursera courses accepts financial aid offering free access to any course for 6 months
+> _Feel free to explore these resources in parallel with our SIG sessions!_
+
+> _Coursera courses accepts financial aid offering free access to any course for 6 months_
 
 ---
 
