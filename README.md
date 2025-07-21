@@ -79,7 +79,7 @@ We welcome improvements, corrections, and new examples! To contribute:
 3.  **Commit** your changes and **push** (`git push origin feature/your-idea`).
 4.  **Open a Pull Request** describing your additions.
 
-> Please keep folder organization consistent: add new code inside the appropriate `DAY*/code/` and slides in `DAY*/slides/`.
+> Please keep folder organization consistent: add new code inside the appropriate `DAY*/` and slides in `DAY*/`.
 
 ---
 
