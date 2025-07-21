@@ -48,6 +48,16 @@ Below are curated courses and channels to deepen your understanding:
 
 ---
 
+## 📚 Suggested Reading
+
+- **Deep Learning** by Ian Goodfellow, Yoshua Bengio, and Aaron Courville  
+- **Mathematics for Machine Learning** by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong  
+- **Pattern Recognition and Machine Learning** by Christopher M. Bishop  
+- **Probabilistic Machine Learning: Advanced Topics** by Kevin P. Murphy  
+- **Hands‑On Machine Learning with Scikit‑Learn, Keras, and TensorFlow** by Aurélien Géron (O’Reilly)  
+
+---
+
 ## 🚀 How to Get Started
 1. **Clone the repo:**  
    ```bash
