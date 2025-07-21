@@ -25,7 +25,7 @@ pisb-ml-sig/
 ## 🎯 SIG Objectives
 - **Day 1:** Foundations of Machine Learning (linear regression, loss functions, gradient descent).  
 - **Day 2:** Other ML Algorithms (decision trees, clustering etc), hyperparameter tuning, cross validation.  
-- **Day 3:** Neural networks, Build a mini NN, Modern architectures (Transformers, LLMs, Vision Transformers) & hands‑on with Hugging Face.
+- **Day 3:** Neural networks, Build a mini NN, Modern architectures (Transformers, LLMs) & hands‑on with Hugging Face.
 
 ---
 
