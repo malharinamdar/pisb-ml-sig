@@ -11,11 +11,11 @@ pisb-ml-sig/
 │   ├── slides          ← PowerPoint & PDF slides
 │   └── code            ← Jupyter notebooks & Python scripts
 │
-├── DAY2/                ← Slides + code for Day 2 (Neural Networks)
+├── DAY2/                ← Slides + code for Day 2 (ML Algorithms)
 │   ├── slides
 │   └── code
 │
-├── DAY3/                ← Slides + code for Day 3 (Transformers & CV)
+├── DAY3/                ← Slides + code for Day 3 (Neural Networks)
 │   ├── slides
 │   └── code
 │
