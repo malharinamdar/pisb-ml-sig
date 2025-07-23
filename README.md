@@ -1,6 +1,6 @@
 # 📚 ML SIG Resources Repository
 
-Welcome to the PISB ML SIG repository! This repo contains all of the slides, code examples, and reference materials used in our 3-day Machine Learning Special Interest Group (SIG) sessions for second-year students from 22-24 July 2025.
+Welcome to the PISB ML SIG repository! This repo contains all of the slides, code examples, and reference materials used in our 3-day Machine Learning Student Interest Group (SIG) sessions for second-year students from 22-24 July 2025.
 
 ## 📂 Repository Structure
 
